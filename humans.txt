@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	
+# COMPARISON TESTING	
+
+more revisions for testing
