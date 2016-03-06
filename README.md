@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Updating line for emergency fix for our stash.
 
 ## How to Contribute
 
