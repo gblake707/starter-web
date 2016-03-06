@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Git.Training 2016
+Git.Training 2016. All Rights Reserved.
